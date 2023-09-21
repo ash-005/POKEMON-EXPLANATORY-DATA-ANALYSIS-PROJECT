@@ -20,7 +20,8 @@ The Project Includes:
 Check pip version:
 MacOS:
 python3 -m pip --version
-windows:
+
+Windows:
 py -m pip --version
 
 TO INSTALL THE PACKAGES :
